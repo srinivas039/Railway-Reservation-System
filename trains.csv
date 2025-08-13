@@ -1,0 +1,6 @@
+Train No,Train Name,Source,Destination,Seats,Fare
+101,Express A,City X,City Y,50,500.00
+102,Express B,City Y,City Z,40,650.00
+103,Superfast C,City X,City Z,60,800.00
+104,Local D,City X,City W,30,300.00
+105,Rajdhani,City W,City Z,20,1200.00
